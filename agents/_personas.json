@@ -1,0 +1,51 @@
+[
+  {
+    "slug": "the-snes-cpu",
+    "name": "The 5A22",
+    "epithet": "16-bit 65C816 core · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦The 5A22:SNS:409998⟧"
+  },
+  {
+    "slug": "the-snes-ppu",
+    "name": "The Dual PPU",
+    "epithet": "two picture units · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦The Dual PPU:SNS:c27335⟧"
+  },
+  {
+    "slug": "the-snes-mode7",
+    "name": "Mode 7",
+    "epithet": "rotate and scale a plane · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦Mode 7:SNS:a106f1⟧"
+  },
+  {
+    "slug": "the-snes-spc700",
+    "name": "The SPC700",
+    "epithet": "Sony's sound computer · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦The SPC700:SNS:103fb3⟧"
+  },
+  {
+    "slug": "the-snes-superfx",
+    "name": "The Super FX",
+    "epithet": "polygons in the cartridge · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦The Super FX:SNS:150f58⟧"
+  },
+  {
+    "slug": "the-snes-ram",
+    "name": "Work RAM",
+    "epithet": "the main memory · natural",
+    "emergence": "natural",
+    "moniker": "⟦Work RAM:SNS:84110b⟧"
+  },
+  {
+    "slug": "the-snes-cart",
+    "name": "The Cartridge",
+    "epithet": "the expandable slot · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦The Cartridge:SNS:d75bf7⟧"
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Work RAM",
+  "universe": "SNS · Work RAM (exereunesis)",
+  "emergence": "natural",
+  "moniker": "⟦Work RAM:SNS:84110b⟧",
+  "carbon": "the-snes-ram.carbon.tiff (TIFF)",
+  "silicon": "the-snes-ram.silicon.png (PNG)",
+  "seal_sha256": "218b1bce21e15ec25d19ee5d207bd9a3543e8a4f00926d80c6552845ca6ce34d",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

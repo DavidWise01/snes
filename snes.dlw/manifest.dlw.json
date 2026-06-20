@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "SUPER NINTENDO · SNES",
+  "universe": "SNS · SUPER NINTENDO · SNES (exereunesis · the teardown)",
+  "emergence": "",
+  "moniker": "⟦SUPER NINTENDO · SNES:SNS:05f4b1⟧",
+  "carbon": "snes.carbon.tiff (TIFF)",
+  "silicon": "snes.silicon.png (PNG)",
+  "seal_sha256": "d1cf504986159577fcf4831c1a3822a952dbddd0d6154a1b846bf512c1a743fc",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

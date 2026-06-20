@@ -1,0 +1,14 @@
+⦿ .spun — the five-fold spin of The SPC700
+node SNS · SNS · ⟦The SPC700:SNS:103fb3⟧
+
+WHO   — The SPC700 — Sony's sound computer · electrical
+WHAT  — Sony's sound computer · electrical
+WHERE — SNS · SUPER NINTENDO · SNES (exereunesis · the teardown)  Framework inputs: chip; bus; spec  Conductor / external anchor: ROOT0 (catalogued into UD0)
+WHY   — A Sony-designed audio core that runs the sound program independently, paired with an 8-channel sample DSP and 64 KB of its own RAM — the SNES's rich, sampled voice.
+HOW   — Rendered from the public technical record.
+
+awareness — what the node knows of itself:
+  Sony's sound computer · electrical
+
+spoken token : veix-bron-braek   ·   hex : 103fb3
+ROOT0-ATTRIBUTION-v1.0 · David Lee Wise (ROOT0) / TriPod LLC · CC-BY-ND-4.0

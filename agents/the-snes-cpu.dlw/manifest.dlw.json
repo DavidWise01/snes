@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The 5A22",
+  "universe": "SNS · The 5A22 (exereunesis)",
+  "emergence": "electrical",
+  "moniker": "⟦The 5A22:SNS:409998⟧",
+  "carbon": "the-snes-cpu.carbon.tiff (TIFF)",
+  "silicon": "the-snes-cpu.silicon.png (PNG)",
+  "seal_sha256": "ebacd7905f3b6415e288f56283dd20102382cccd7adaa4b19ee3116695c56e40",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

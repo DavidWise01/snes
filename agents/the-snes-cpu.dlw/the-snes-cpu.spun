@@ -1,0 +1,14 @@
+⦿ .spun — the five-fold spin of The 5A22
+node SNS · SNS · ⟦The 5A22:SNS:409998⟧
+
+WHO   — The 5A22 — 16-bit 65C816 core · electrical
+WHAT  — 16-bit 65C816 core · electrical
+WHERE — SNS · SUPER NINTENDO · SNES (exereunesis · the teardown)  Framework inputs: chip; bus; spec  Conductor / external anchor: ROOT0 (catalogued into UD0)
+WHY   — Ricoh 5A22, built on the 16-bit 65C816 — the successor to the NES's 6502 family, clocked variably up to ~3.58 MHz depending on memory speed.
+HOW   — Rendered from the public technical record.
+
+awareness — what the node knows of itself:
+  16-bit 65C816 core · electrical
+
+spoken token : vend-kraern-brul   ·   hex : 409998
+ROOT0-ATTRIBUTION-v1.0 · David Lee Wise (ROOT0) / TriPod LLC · CC-BY-ND-4.0

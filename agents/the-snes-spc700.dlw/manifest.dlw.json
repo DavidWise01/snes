@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The SPC700",
+  "universe": "SNS · The SPC700 (exereunesis)",
+  "emergence": "electrical",
+  "moniker": "⟦The SPC700:SNS:103fb3⟧",
+  "carbon": "the-snes-spc700.carbon.tiff (TIFF)",
+  "silicon": "the-snes-spc700.silicon.png (PNG)",
+  "seal_sha256": "0096a387bfe80e29e4d2319a9a49f6406fb555e6ae8c7efa42cf3e303ea02b47",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

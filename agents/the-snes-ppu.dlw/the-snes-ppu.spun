@@ -1,0 +1,14 @@
+⦿ .spun — the five-fold spin of The Dual PPU
+node SNS · SNS · ⟦The Dual PPU:SNS:c27335⟧
+
+WHO   — The Dual PPU — two picture units · electrical
+WHAT  — two picture units · electrical
+WHERE — SNS · SUPER NINTENDO · SNES (exereunesis · the teardown)  Framework inputs: chip; bus; spec  Conductor / external anchor: ROOT0 (catalogued into UD0)
+WHY   — Two cooperating picture processing units compositing multiple tile layers and 128 sprites from a 32,768-colour space — the visual leap over the 8-bit era.
+HOW   — Rendered from the public technical record.
+
+awareness — what the node knows of itself:
+  two picture units · electrical
+
+spoken token : thond-maeth-mae   ·   hex : c27335
+ROOT0-ATTRIBUTION-v1.0 · David Lee Wise (ROOT0) / TriPod LLC · CC-BY-ND-4.0

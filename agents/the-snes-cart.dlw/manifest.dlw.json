@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Cartridge",
+  "universe": "SNS · The Cartridge (exereunesis)",
+  "emergence": "ethereal",
+  "moniker": "⟦The Cartridge:SNS:d75bf7⟧",
+  "carbon": "the-snes-cart.carbon.tiff (TIFF)",
+  "silicon": "the-snes-cart.silicon.png (PNG)",
+  "seal_sha256": "fce94c8d1dfa4282d8507e1fcc6ba359dc902636b235687eeb92c1a93b5aa8dd",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

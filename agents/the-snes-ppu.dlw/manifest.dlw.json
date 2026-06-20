@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Dual PPU",
+  "universe": "SNS · The Dual PPU (exereunesis)",
+  "emergence": "electrical",
+  "moniker": "⟦The Dual PPU:SNS:c27335⟧",
+  "carbon": "the-snes-ppu.carbon.tiff (TIFF)",
+  "silicon": "the-snes-ppu.silicon.png (PNG)",
+  "seal_sha256": "523a13bb87f0a01f2446f94289ca34c6ea53eb0b4c399a56b0ae85848e8bbc9f",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
